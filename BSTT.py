@@ -73,3 +73,4 @@ obj.preorder()
 obj.postorder()
 obj.search(1)
 #print(obj.right.data)
+#kjhkjhkjh
